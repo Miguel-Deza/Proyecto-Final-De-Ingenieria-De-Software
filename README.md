@@ -2,11 +2,11 @@
 
 ## Integrantes
 
-🔷 Miguel Angel Deza Cuela
-🔷 Alvaro Ticona Motta
-🔷 Cecilia del Pilar Vilca Alvites
-🔷 Joao Franco Emanuel Chávez Salas
-🔷 Ancel Alain F. Cruz Chaiña
+🔷 *Miguel Angel Deza Cuela
+🔷 *Alvaro Ticona Motta
+🔷 *Cecilia del Pilar Vilca Alvites
+🔷 *Joao Franco Emanuel Chávez Salas
+🔷 *Ancel Alain F. Cruz Chaiña
 
 
 ## Pipeline
